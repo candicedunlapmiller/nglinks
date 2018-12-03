@@ -1,7 +1,13 @@
 # nglinks
-Linklist for AngularJS tutorials and reference
+Linklist for Angular tutorials and reference
 
 ## Tutorials
+[App Dividend Angular Crud Tutorial](https://appdividend.com/2018/11/04/angular-7-crud-example-mean-stack-tutorial/)
+
+[Angular Quickstart](https://angular.io/guide/quickstart)
+
+[Your First Angular App](https://scrimba.com/g/gyourfirstangularapp)
+
 [Build an Animated Angular Dashboard](https://scotch.io/tutorials/build-an-animated-angular-v2-dashboard)
 
 [Create the toJSON Operator](https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21)
@@ -28,11 +34,20 @@ Linklist for AngularJS tutorials and reference
 ## Videos/Subscription Sites ($$)
 [Scotch.io](https://scotch.io/)
 
+[Udemy - Complete Guide to Angular 2 (actually 7+)](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
+
 [Udemy - AngularJS Search](https://www.udemy.com/courses/search/?q=Angular&siteID=4f0sWo5NLok-FsbFfrItzIbWWqp0pvVMBg&LSNPUBID=4f0sWo5NLok)
 
 [Udemy Ultimate ng4](https://www.udemy.com/ultimate-angular-2/)
 
 
+[Ultimate Courses - Angular](https://ultimatecourses.com/angular)
+
+[Youtube- design course](http://www.youtube.com/user/designcourse)
+
+[Learn Angular 7 in 50 Minutes - A Free Beginner's Crash Course](https://www.youtube.com/watch?v=5wtnKulcquA)
+
+[https://youtu.be/k5E2AVpwsko](Angular Tutorial for Beginners: Learn Angular from Scratch | Mosh)
 
 ## Articles
 [Demystify Dynamic Angular Forms](https://juristr.com/blog/2017/10/demystify-dynamic-angular-forms/)
@@ -69,6 +84,8 @@ Linklist for AngularJS tutorials and reference
 [AngularJS Recipes](http://fdietz.github.io/recipes-with-angular-js/index.html)
 
 ## Linklists
+[avatsaev Learning Resources](https://github.com/avatsaev/angular-learning-resources)
+
 [AngularJS2 Learning (kind of what I'm doing here but older)](https://github.com/jmcunningham/AngularJS2-Learning)
 
 [Awesome Angular Components](https://github.com/brillout/awesome-angular-components)
